@@ -1,0 +1,7 @@
+IAPs
+
+
+com.avatar.style.dressup.removeads
+
+com.avatar.style.dressup.freeslots
+com.avatar.style.vip.sub
