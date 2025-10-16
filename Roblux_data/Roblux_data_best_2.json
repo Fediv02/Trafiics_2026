@@ -1,17 +1,17 @@
 {
     "games": [
         {
-            "title": "Steal a Brainrot",
-            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/Steal_the_cover.png",
-            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/Steal_the_icon.png",
-            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FQ62RW8M",
+            "title": "Tie Dye",
+            "imageUrl": "https://m.media-amazon.com/images/I/81xQNkG3RmL.png",
+            "iconUrl": "https://m.media-amazon.com/images/I/A1JY7zJf6QL.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FQ6VD6G2",
             "isClickable": true
         },
         {
-            "title": "BARRY PRISON RUN!",
-            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/Barry_panel.png",
-            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/barry_icon.png",
-            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FPPDRKNB",
+            "title": "Build A Queen",
+            "imageUrl": "https://m.media-amazon.com/images/I/815u97VwBDL.png",
+            "iconUrl": "https://m.media-amazon.com/images/I/81O4af5tz0L.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FQ62RW8M",
             "isClickable": true
         },
         {
