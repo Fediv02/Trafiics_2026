@@ -36,7 +36,7 @@ echo 📝 Committing changes...
 git commit -m "Auto upload from DouiRom tool"
 
 :: تعيين الريموت (عدل الرابط أدناه باسم المستخدم والمستودع)
-set REPO=https://github.com/Fediv02/Traffics_2025.git
+set REPO=https://github.com/Fediv02/Trafiics_2026.git
 git remote remove origin >nul 2>&1
 git remote add origin %REPO%
 
