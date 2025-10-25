@@ -5,7 +5,7 @@
             "imageUrl": "https://m.media-amazon.com/images/I/81xQNkG3RmL.png",
             "iconUrl": "https://m.media-amazon.com/images/I/A1JY7zJf6QL.png",
             "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FQ6VD6G2",
-            "isClickable": true
+            "isClickable": false
         },
         {
             "title": "Build A Queen",
@@ -26,7 +26,7 @@
             "imageUrl": "https://m.media-amazon.com/images/I/81vM6DEG7ZL.png",
             "iconUrl": "https://m.media-amazon.com/images/I/913ulqCIZOL._SL500_.png",
             "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FXCXMF4H",
-            "isClickable": true
+            "isClickable": false
         },
         {
             "title": "Нidе Run Sрасе Сrеw",
@@ -40,7 +40,7 @@
             "imageUrl": "https://m.media-amazon.com/images/I/81NKq1jA1QL.png",
             "iconUrl": "https://m.media-amazon.com/images/I/B1U+N-v3bzL.png",
             "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FXD43WZL",
-            "isClickable": true
+            "isClickable": false
         },
         {
             "title": "Gаlаху Rush",
