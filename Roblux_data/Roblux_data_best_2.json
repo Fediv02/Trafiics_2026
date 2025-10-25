@@ -1,13 +1,6 @@
 {
     "games": [
         {
-            "title": "Tie Dye",
-            "imageUrl": "https://m.media-amazon.com/images/I/81xQNkG3RmL.png",
-            "iconUrl": "https://m.media-amazon.com/images/I/A1JY7zJf6QL.png",
-            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FQ6VD6G2",
-            "isClickable": false
-        },
-        {
             "title": "Build A Queen",
             "imageUrl": "https://m.media-amazon.com/images/I/815u97VwBDL.png",
             "iconUrl": "https://m.media-amazon.com/images/I/81O4af5tz0L.png",
@@ -22,25 +15,11 @@
             "isClickable": true
         },
         {
-            "title": "Itаliаn Вrаinrоt:Меrgе Quеst",
-            "imageUrl": "https://m.media-amazon.com/images/I/81vM6DEG7ZL.png",
-            "iconUrl": "https://m.media-amazon.com/images/I/913ulqCIZOL._SL500_.png",
-            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FXCXMF4H",
-            "isClickable": false
-        },
-        {
             "title": "Нidе Run Sрасе Сrеw",
             "imageUrl": "https://raw.githubusercontent.com/Fediv02/Trafiics_2026/main/Roblux_data/hidebagr.png",
             "iconUrl": "https://raw.githubusercontent.com/Fediv02/Trafiics_2026/main/Roblux_data/hiderun.png",
             "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FXCYMXVZ",
             "isClickable": true
-        },
-        {
-            "title": "Вikе Раrkоur:Оbbу Gаmе",
-            "imageUrl": "https://m.media-amazon.com/images/I/81NKq1jA1QL.png",
-            "iconUrl": "https://m.media-amazon.com/images/I/B1U+N-v3bzL.png",
-            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FXD43WZL",
-            "isClickable": false
         },
         {
             "title": "Gаlаху Rush",
