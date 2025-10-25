@@ -8,6 +8,13 @@
             "isClickable": true
         },
         {
+            "title": "Geometry Dash Lite",
+            "imageUrl": "https://m.media-amazon.com/images/I/A1QUgj-JuyL._SL500_.png",
+            "iconUrl": "https://m.media-amazon.com/images/I/71qu4J7xtML.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FXN67328",
+            "isClickable": true
+        },
+        {
             "title": "Obby Parkour: Runner Game",
             "imageUrl": "https://m.media-amazon.com/images/I/A1HYOicIbNL._SL500_.png",
             "iconUrl": "https://m.media-amazon.com/images/I/81WjOMdvpXL.png",
