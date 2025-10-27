@@ -62,6 +62,13 @@
             "iconUrl": "https://m.media-amazon.com/images/I/61f9TFa1ErL.jpg",
             "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FXPGPK37",
             "isClickable": true
+         },
+        {
+            "title": "Вikе Раrkоur: Оbbу Gаmе",
+            "imageUrl": "https://m.media-amazon.com/images/I/81NKq1jA1QL.png",
+            "iconUrl": "https://m.media-amazon.com/images/I/B1U+N-v3bzL._SL500_.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FXD43WZL",
+            "isClickable": true
         }
     ]
 }
