@@ -55,6 +55,13 @@
             "iconUrl": "https://m.media-amazon.com/images/I/81tl0cUQaVL.png",
             "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FQDLR8SK",
             "isClickable": true
+         },
+        {
+            "title": "Escape from Shadow Base",
+            "imageUrl": "https://m.media-amazon.com/images/I/61f9TFa1ErL._SL500_.jpg",
+            "iconUrl": "https://m.media-amazon.com/images/I/811K+EkZxZL.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FXPGPK37",
+            "isClickable": true
         }
     ]
 }
