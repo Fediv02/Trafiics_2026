@@ -1,32 +1,22 @@
 {
-    "games": [
-        {
-            "title": "Steal a Brainrot",
-            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/Steal_the_cover.png",
-            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/Steal_the_icon.png",
-            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FQ62RW8M",
-            "isClickable": true
-        },
-        {
-            "title": "BARRY PRISON RUN!",
-            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/Barry_panel.png",
-            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/barry_icon.png",
-            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FPPDRKNB",
-            "isClickable": true
-        },
-        {
-            "title": "Escape Baby Bobby",
-            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/bobby_cover.png",
-            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/bobby_icon.png",
-            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FNLSCY19",
-            "isClickable": true
-        },
-        {
-            "title": "Italian Brainrot Evolution",
-            "imageUrl": "https://raw.githubusercontent.com/Fediv02/Trafiics_2026/main/Roblux_data/barinrback",
-            "iconUrl": "https://raw.githubusercontent.com/Fediv02/Trafiics_2026/main/Roblux_data/brainrot.png",
-            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FQDLR8SK",
-            "isClickable": true
-        }
-    ]
+  "games": [
+    {
+      "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FQ62RW8M"
+    },
+    {
+      "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FXN67328"
+    },
+    {
+      "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FNLSCY19"
+    },
+    {
+      "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FXCYMXVZ"
+    },
+    {
+      "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FXD2K5T4"
+    },
+    {
+      "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FQDLR8SK"
+    }
+  ]
 }
