@@ -5,14 +5,14 @@
             "imageUrl": "https://m.media-amazon.com/images/I/815u97VwBDL.png",
             "iconUrl": "https://m.media-amazon.com/images/I/81O4af5tz0L.png",
             "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FQ62RW8M",
-            "isClickable": true
+            "isClickable": false
         },
         {
             "title": "Geometry Dash Lite",
             "imageUrl": "https://m.media-amazon.com/images/I/71qu4J7xtML.png",
             "iconUrl": "https://raw.githubusercontent.com/Fediv02/Trafiics_2026/main/Roblux_data/dashgreen.png",
             "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FXN67328",
-            "isClickable": true
+            "isClickable": false
         },
         {
             "title": "Obby Parkour: Runner Game",
