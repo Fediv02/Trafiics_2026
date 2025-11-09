@@ -27,6 +27,13 @@
             "iconUrl": "https://m.media-amazon.com/images/I/91TxdCC113L.png",
             "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FXD2K5T4",
             "isClickable": true
+         },
+        {
+            "title": "Serpent Rush: Speed Runner",
+            "imageUrl": "https://m.media-amazon.com/images/I/71TQMrIgHBL.png",
+            "iconUrl": "https://m.media-amazon.com/images/I/81TtA9VhK7L.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FPBVPQ7J",
+            "isClickable": true
         },
         {
             "title": "Italian Brainrot Evolution",
