@@ -13,6 +13,13 @@
             "iconUrl": "https://raw.githubusercontent.com/Fediv02/Trafiics_2026/main/Roblux_data/hiderun.png",
             "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FXCYMXVZ",
             "isClickable": true
+         },
+        {
+            "title": "Escape Gandma House",
+            "imageUrl": "https://m.media-amazon.com/images/I/815BJX2gWZL.png",
+            "iconUrl": "https://m.media-amazon.com/images/I/91J8jYp4DyL.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FXD2K5T4",
+            "isClickable": true
         },
         {
             "title": "Gаlаху Rush",
