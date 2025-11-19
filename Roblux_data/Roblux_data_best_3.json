@@ -1,10 +1,10 @@
 {
     "games": [
         {
-            "title": "Build A Queen",
-            "imageUrl": "https://m.media-amazon.com/images/I/815u97VwBDL.png",
-            "iconUrl": "https://m.media-amazon.com/images/I/81O4af5tz0L.png",
-            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FQ62RW8M",
+            "title": "Escape from prison night",
+            "imageUrl": "https://m.media-amazon.com/images/I/81mNd0fUM+L.png",
+            "iconUrl": "https://m.media-amazon.com/images/I/B1h8NGzX+PL._SL500_.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0G2SWCY1Z",
             "isClickable": true
         },
         {
