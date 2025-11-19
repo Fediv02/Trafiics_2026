@@ -5,7 +5,7 @@
             "imageUrl": "https://m.media-amazon.com/images/I/81mNd0fUM+L.png",
             "iconUrl": "https://m.media-amazon.com/images/I/B1h8NGzX+PL._SL500_.png",
             "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0G2SWCY1Z",
-            "isClickable": true
+            "isClickable": false
         },
         {
             "title": "tung tung sahur",
@@ -27,7 +27,7 @@
             "imageUrl": "https://m.media-amazon.com/images/I/91qcQZZsrSL.png",
             "iconUrl": "https://m.media-amazon.com/images/I/A1AjaJ00cGL._SL500_.png",
             "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0G2TLY3Y1",
-            "isClickable": true
+            "isClickable": false
         }
     ]
 }
