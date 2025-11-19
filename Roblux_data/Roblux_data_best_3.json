@@ -13,34 +13,7 @@
             "iconUrl": "https://raw.githubusercontent.com/Fediv02/Trafiics_2026/main/Roblux_data/dashgreen.png",
             "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FXN67328",
             "isClickable": true
-        },
-        {
-            "title": "Obby Parkour: Runner Game",
-            "imageUrl": "https://m.media-amazon.com/images/I/A1HYOicIbNL._SL500_.png",
-            "iconUrl": "https://m.media-amazon.com/images/I/81WjOMdvpXL.png",
-            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FNLSCY19",
-            "isClickable": true
-        },
-        {
-            "title": "Нidе Run Sрасе Сrеw",
-            "imageUrl": "https://raw.githubusercontent.com/Fediv02/Trafiics_2026/main/Roblux_data/hidebagr.png",
-            "iconUrl": "https://raw.githubusercontent.com/Fediv02/Trafiics_2026/main/Roblux_data/hiderun.png",
-            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FXCYMXVZ",
-            "isClickable": true
-        },
-        {
-            "title": "Gаlаху Rush",
-            "imageUrl": "https://raw.githubusercontent.com/Fediv02/Trafiics_2026/main/Roblux_data/Cartoon Characters Engaged In Dynamic Interaction Against Orange Wall_512x512.png",
-            "iconUrl": "https://m.media-amazon.com/images/I/91TxdCC113L.png",
-            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FXD2K5T4",
-            "isClickable": true
-        },
-        {
-            "title": "Italian Brainrot Evolution",
-            "imageUrl": "https://raw.githubusercontent.com/Fediv02/Trafiics_2026/main/Roblux_data/barinrback",
-            "iconUrl": "https://raw.githubusercontent.com/Fediv02/Trafiics_2026/main/Roblux_data/brainrot.png",
-            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FQDLR8SK",
-            "isClickable": true
+
          },
         {
             "title": "Jumbo Fall: Hexagon Survivor",
