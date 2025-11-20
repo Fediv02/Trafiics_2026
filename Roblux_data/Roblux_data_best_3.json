@@ -1,11 +1,11 @@
 {
     "games": [
         {
-            "title": "Escape from prison night",
-            "imageUrl": "https://m.media-amazon.com/images/I/81mNd0fUM+L.png",
-            "iconUrl": "https://m.media-amazon.com/images/I/B1h8NGzX+PL._SL500_.png",
-            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0G2SWCY1Z",
-            "isClickable": false
+            "title": "Obby Parkour: Runner Game",
+            "imageUrl": "https://m.media-amazon.com/images/I/A1HYOicIbNL._SL500_.png",
+            "iconUrl": "https://m.media-amazon.com/images/I/81WjOMdvpXL.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FNLSCY19",
+            "isClickable": true
         },
         {
             "title": "tung tung sahur",
