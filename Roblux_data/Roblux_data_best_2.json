@@ -36,6 +36,21 @@
             "isClickable": true
          },
         {
+            "title": "tung tung sahur",
+            "imageUrl": "https://m.media-amazon.com/images/I/81AoUkj7DfL.png",
+            "iconUrl": "https://m.media-amazon.com/images/I/A1FCW-J+yDL._SL500_.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0G2T371ZZ",
+            "isClickable": true
+
+         },
+        {
+            "title": "Rampage Rig Runner",
+            "imageUrl": "https://m.media-amazon.com/images/I/819yGHymG1L.png",
+            "iconUrl": "https://m.media-amazon.com/images/I/91Fj31tZErL._SL500_.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0G2TM1VKN",
+            "isClickable": true
+         },
+        {
             "title": "Itаliаn Вrаinrоt:Меrgе Quеst",
             "imageUrl": "https://m.media-amazon.com/images/I/81vM6DEG7ZL.png",
             "iconUrl": "https://m.media-amazon.com/images/I/913ulqCIZOL.png",
