@@ -1,10 +1,10 @@
 {
     "games": [
         {
-            "title": "Obby Parkour: Runner Game",
-            "imageUrl": "https://m.media-amazon.com/images/I/A1HYOicIbNL._SL500_.png",
-            "iconUrl": "https://m.media-amazon.com/images/I/81WjOMdvpXL.png",
-            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FNLSCY19",
+            "title": "Elf Quest: Platform Adventure",
+            "imageUrl": "https://m.media-amazon.com/images/I/81f5J1pvU7L.png",
+            "iconUrl": "https://m.media-amazon.com/images/I/A1JGARP1K7L._SL500_.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FR5FL8VJ",
             "isClickable": true
         },
         {
