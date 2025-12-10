@@ -13,6 +13,20 @@
             "iconUrl": "https://m.media-amazon.com/images/I/B1wPYTpWsKL._SL500_.png",
             "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FR6ML7S3",
             "isClickable": true
+         },
+        {
+            "title": "Rope Savior: Hero Fighter",
+            "imageUrl": "https://m.media-amazon.com/images/I/8187eI9nQVL.png",
+            "iconUrl": "https://m.media-amazon.com/images/I/B1V4ZHhOjOL._SL500_.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FPTFF85F",
+            "isClickable": true
+         },
+        {
+            "title": "Blob Squad: Run Clash",
+            "imageUrl": "https://m.media-amazon.com/images/I/81A5K-xmdbL.png",
+            "iconUrl": "https://m.media-amazon.com/images/I/81zuN48KREL._SL500_.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FRQ89WZ4",
+            "isClickable": true
 
          },
         {
