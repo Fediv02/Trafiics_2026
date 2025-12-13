@@ -86,6 +86,56 @@
             "isClickable": true
          },
         {
+             "title": "Elf Quest Platform Adventure",
+            "imageUrl": "https://m.media-amazon.com/images/I/81f5J1pvU7L.png",
+            "iconUrl": "https://m.media-amazon.com/images/I/A1JGARP1K7L._SL500_.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FR5FL8VJ",
+            "isClickable": true
+        },
+        {
+            "title": "Harvest Tale Farm Journey",
+            "imageUrl": "https://m.media-amazon.com/images/I/81why2ZtbUL.png",
+            "iconUrl": "https://m.media-amazon.com/images/I/B1wPYTpWsKL._SL500_.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FR6ML7S3",
+            "isClickable": true
+         },
+        {
+            "title": "Pup Race: Speed Champs",
+            "imageUrl": "https://m.media-amazon.com/images/I/71BuipNo3PL.png",
+            "iconUrl": "https://m.media-amazon.com/images/I/A1x9LIqaihL._SL500_.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FPBRDP9X",
+            "isClickable": true
+         },
+        {
+            "title": "Mind Force: Telekinesis Adventure",
+            "imageUrl": "https://m.media-amazon.com/images/I/81gwC7U2t+L.png",
+            "iconUrl": "https://m.media-amazon.com/images/I/81Gt2Zj6njL._SL500_.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FPDVDCKC",
+            "isClickable": true
+
+         },
+        {
+            "title": "Abyss Blast Gravity Storm",
+            "imageUrl": "https://m.media-amazon.com/images/I/81QlG9e9m2L.png",
+            "iconUrl": "https://m.media-amazon.com/images/I/8119UQl25tL._SL500_.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FPDQ2XXH",
+            "isClickable": true
+         },
+        {
+            "title": "Ice Cream ASMR",
+            "imageUrl": "https://m.media-amazon.com/images/I/81TG90jKngL.png",
+            "iconUrl": "https://m.media-amazon.com/images/I/91TlkyAlAPL._SL500_.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FPF1HLFQ",
+            "isClickable": true
+         },
+        {
+            "title": "Crash Dummy Ragdoll Fall",
+            "imageUrl": "https://m.media-amazon.com/images/I/81thz7dSOiL.png",
+            "iconUrl": "https://m.media-amazon.com/images/I/813tBeV70zL._SL500_.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FPDZRTBR",
+            "isClickable": true
+         },
+        {
             "title": "Вikе Раrkоur: Оbbу Gаmе",
             "imageUrl": "https://m.media-amazon.com/images/I/81NKq1jA1QL.png",
             "iconUrl": "https://m.media-amazon.com/images/I/B1U+N-v3bzL._SL500_.png",
