@@ -27,13 +27,6 @@
             "iconUrl": "https://m.media-amazon.com/images/I/A1YfeigvneL.png",
             "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FWMGSVZH",
             "isClickable": true
-        },
-        {
-            "title": "Gаlаху Rush",
-            "imageUrl": "https://raw.githubusercontent.com/Fediv02/Trafiics_2026/main/Roblux_data/Cartoon Characters Engaged In Dynamic Interaction Against Orange Wall_512x512.png",
-            "iconUrl": "https://m.media-amazon.com/images/I/91TxdCC113L.png",
-            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FXD2K5T4",
-            "isClickable": true
          },
         {
             "title": "tung tung sahur",
@@ -51,7 +44,7 @@
             "isClickable": true
          },
         {
-            "title": "Itаliаn Вrаinrоt:Меrgе Quеst",
+            "title": "Grow a Garden",
             "imageUrl": "https://m.media-amazon.com/images/I/81vM6DEG7ZL.png",
             "iconUrl": "https://m.media-amazon.com/images/I/913ulqCIZOL.png",
             "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FXCXMF4H",
@@ -133,13 +126,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/81thz7dSOiL.png",
             "iconUrl": "https://m.media-amazon.com/images/I/813tBeV70zL._SL500_.png",
             "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FPDZRTBR",
-            "isClickable": true
-         },
-        {
-            "title": "Вikе Раrkоur: Оbbу Gаmе",
-            "imageUrl": "https://m.media-amazon.com/images/I/81NKq1jA1QL.png",
-            "iconUrl": "https://m.media-amazon.com/images/I/B1U+N-v3bzL._SL500_.png",
-            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FXD43WZL",
             "isClickable": true
          },
         {
