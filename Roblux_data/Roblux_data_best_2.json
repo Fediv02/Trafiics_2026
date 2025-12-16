@@ -15,6 +15,13 @@
             "isClickable": true
          },
         {
+            "title": "Superhero Fighter",
+            "imageUrl": "https://m.media-amazon.com/images/I/81uqD06YNoL.png",
+            "iconUrl": "https://m.media-amazon.com/images/I/B1hul8xrdQL._SL500_.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0G6XRDTBX",
+            "isClickable": true
+         },
+        {
             "title": "Ragdoll Crash Test",
             "imageUrl": "https://m.media-amazon.com/images/I/81hM3tkXWhL.png",
             "iconUrl": "https://m.media-amazon.com/images/I/A1p-mLdhf0L._SL500_.png",
@@ -65,10 +72,10 @@
             "isClickable": true
         },
         {
-            "title": "Italian Brainrot Evolution",
-            "imageUrl": "https://raw.githubusercontent.com/Fediv02/Trafiics_2026/main/Roblux_data/barinrback",
-            "iconUrl": "https://raw.githubusercontent.com/Fediv02/Trafiics_2026/main/Roblux_data/brainrot.png",
-            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FQDLR8SK",
+            "title": "Scary Haunted Doll",
+            "imageUrl": "https://m.media-amazon.com/images/I/813TFeLWXAL.png",
+            "iconUrl": "https://m.media-amazon.com/images/I/B1P-i9gE-KL._SL500_.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0G6XNRH82",
             "isClickable": true
          },
         {
@@ -133,6 +140,13 @@
             "imageUrl": "https://m.media-amazon.com/images/I/81thz7dSOiL.png",
             "iconUrl": "https://m.media-amazon.com/images/I/813tBeV70zL._SL500_.png",
             "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FPDZRTBR",
+            "isClickable": true
+         },
+        {
+            "title": "Sky Blocks: Island Survival",
+            "imageUrl": "https://m.media-amazon.com/images/I/81XHiA8pb5L.png",
+            "iconUrl": "https://m.media-amazon.com/images/I/A1ntXqN87fL._SL500_.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FRQC6SZQ",
             "isClickable": true
          },
         {
