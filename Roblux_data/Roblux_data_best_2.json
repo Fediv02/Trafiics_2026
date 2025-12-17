@@ -2,16 +2,9 @@
     "games": [
         {
             "title": "Obby Parkour: Runner Game",
-            "imageUrl": "https://m.media-amazon.com/images/I/A1HYOicIbNL._SL500_.png",
-            "iconUrl": "https://m.media-amazon.com/images/I/81WjOMdvpXL.png",
-            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FNLSCY19",
-            "isClickable": true
-        },
-        {
-            "title": "Нidе Run Sрасе Сrеw",
-            "imageUrl": "https://raw.githubusercontent.com/Fediv02/Trafiics_2026/main/Roblux_data/hidebagr.png",
-            "iconUrl": "https://raw.githubusercontent.com/Fediv02/Trafiics_2026/main/Roblux_data/hiderun.png",
-            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FXCYMXVZ",
+            "imageUrl": "https://m.media-amazon.com/images/I/81XqiX9z0QL.png",
+            "iconUrl": "https://m.media-amazon.com/images/I/A1eXbrFKwVL._SL500_.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0G7M5WSRP",
             "isClickable": true
          },
         {
@@ -23,24 +16,9 @@
          },
         {
             "title": "Ragdoll Crash Test",
-            "imageUrl": "https://m.media-amazon.com/images/I/81hM3tkXWhL.png",
-            "iconUrl": "https://m.media-amazon.com/images/I/A1p-mLdhf0L._SL500_.png",
-            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0G6XGYLQM",
-            "isClickable": true
-         },
-        {
-            "title": "Escape Gandma House",
-            "imageUrl": "https://m.media-amazon.com/images/I/815BJX2gWZL.png",
-            "iconUrl": "https://m.media-amazon.com/images/I/91J8jYp4DyL.png",
-            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FXQ1ZRBJ",
-            "isClickable": true
-        },
-        {
-            "title": "Block Mods: Build Craft",
-            "imageUrl": "https://m.media-amazon.com/images/I/81twdJbTFxL.png",
-            "iconUrl": "https://m.media-amazon.com/images/I/A1YfeigvneL.png",
-            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FWMGSVZH",
-            "isClickable": true
+            "imageUrl": "https://m.media-amazon.com/images/I/81nk5QOJTRL.png",
+            "iconUrl": "https://m.media-amazon.com/images/I/B1vyFXx+WOL._SL500_.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0G7M4N967",
          },
         {
             "title": "tung tung sahur",
@@ -56,20 +34,6 @@
             "iconUrl": "https://m.media-amazon.com/images/I/91Fj31tZErL._SL500_.png",
             "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0G2TM1VKN",
             "isClickable": true
-         },
-        {
-            "title": "Grow a Garden",
-            "imageUrl": "https://m.media-amazon.com/images/I/8190Skot8+L.png",
-            "iconUrl": "https://m.media-amazon.com/images/I/B12jRIJPBUL._SL500_.png",
-            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FXCXMF4H",
-            "isClickable": true
-         },
-        {
-            "title": "Serpent Rush: Speed Runner",
-            "imageUrl": "https://m.media-amazon.com/images/I/71TQMrIgHBL.png",
-            "iconUrl": "https://m.media-amazon.com/images/I/81TtA9VhK7L.png",
-            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FPBVPQ7J",
-            "isClickable": true
         },
         {
             "title": "Scary Haunted Doll",
@@ -79,47 +43,11 @@
             "isClickable": true
          },
         {
-            "title": "Jumbo Fall: Hexagon Survivor",
-            "imageUrl": "https://raw.githubusercontent.com/Fediv02/Trafiics_2026/main/Roblux_data/iconamon.png",
-            "iconUrl": "https://raw.githubusercontent.com/Fediv02/Trafiics_2026/main/Roblux_data/Capture d’écran 2025-10-27 190556.png",
-            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FR4GX1PD",
-            "isClickable": true
-         },
-        {
-            "title": "Turbo Rider 3D: Extreme Race",
-            "imageUrl": "https://m.media-amazon.com/images/I/81tl0cUQaVL.png",
-            "iconUrl": "https://m.media-amazon.com/images/I/91CLfkUHSjL.png",
-            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FMLC7L1D",
-            "isClickable": true
-         },
-        {
-             "title": "Elf Quest Platform Adventure",
-            "imageUrl": "https://m.media-amazon.com/images/I/81f5J1pvU7L.png",
-            "iconUrl": "https://m.media-amazon.com/images/I/A1JGARP1K7L._SL500_.png",
-            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FR5FL8VJ",
-            "isClickable": true
-        },
-        {
-            "title": "Harvest Tale Farm Journey",
-            "imageUrl": "https://m.media-amazon.com/images/I/81why2ZtbUL.png",
-            "iconUrl": "https://m.media-amazon.com/images/I/B1wPYTpWsKL._SL500_.png",
-            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FR6ML7S3",
-            "isClickable": true
-         },
-        {
-            "title": "Pup Race: Speed Champs",
-            "imageUrl": "https://m.media-amazon.com/images/I/71BuipNo3PL.png",
-            "iconUrl": "https://m.media-amazon.com/images/I/A1x9LIqaihL._SL500_.png",
-            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FPBRDP9X",
-            "isClickable": true
-         },
-        {
             "title": "Mind Force: Telekinesis Adventure",
             "imageUrl": "https://m.media-amazon.com/images/I/81gwC7U2t+L.png",
             "iconUrl": "https://m.media-amazon.com/images/I/81Gt2Zj6njL._SL500_.png",
             "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FPDVDCKC",
             "isClickable": true
-
          },
         {
             "title": "Abyss Blast Gravity Storm",
@@ -147,15 +75,7 @@
             "imageUrl": "https://m.media-amazon.com/images/I/81XHiA8pb5L.png",
             "iconUrl": "https://m.media-amazon.com/images/I/A1ntXqN87fL._SL500_.png",
             "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FRQC6SZQ",
-            "isClickable": true
-         },
-        {
-            "title": "Escape from Shadow Base",
-            "imageUrl": "https://m.media-amazon.com/images/I/811K+EkZxZL.png",
-            "iconUrl": "https://m.media-amazon.com/images/I/61f9TFa1ErL.jpg",
-            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FXPGPK37",
-            "isClickable": true
-    
+            
         }
     ]
 }
