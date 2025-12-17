@@ -33,7 +33,7 @@
             "iconUrl": "https://m.media-amazon.com/images/I/91Fj31tZErL._SL500_.png",
             "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0G2TM1VKN",
             "isClickable": true
-        },
+         },
         {
             "title": "Scary Haunted Doll",
             "imageUrl": "https://m.media-amazon.com/images/I/813TFeLWXAL.png",
