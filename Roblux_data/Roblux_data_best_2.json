@@ -61,6 +61,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/81thz7dSOiL.png",
       "iconUrl": "https://m.media-amazon.com/images/I/813tBeV70zL._SL500_.png",
       "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FPDZRTBR",
+      "isClickable": true
     }
   ]
 }
