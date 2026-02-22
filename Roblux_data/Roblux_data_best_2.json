@@ -88,7 +88,8 @@
       "title": "Sky Blocks: Island Survival",
       "imageUrl": "https://m.media-amazon.com/images/I/81XHiA8pb5L.png",
       "iconUrl": "https://m.media-amazon.com/images/I/A1ntXqN87fL._SL500_.png",
-      "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FRQC6SZQ"
+      "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FRQC6SZQ",
+      "isClickable": true
     }
   ]
 }
