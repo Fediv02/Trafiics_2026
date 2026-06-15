@@ -1,94 +1,10 @@
 {
   "games": [
     {
-      "title": "Superhero Fighter",
+      "title": "IPTV SUbscription",
       "imageUrl": "https://m.media-amazon.com/images/I/81uqD06YNoL.png",
       "iconUrl": "https://m.media-amazon.com/images/I/B1hul8xrdQL._SL500_.png",
       "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0G6XRDTBX",
-      "isClickable": true
-    },
-    {
-      "title": "Elemental Escape",
-      "imageUrl": "https://m.media-amazon.com/images/I/81XYsZBkxtL.png",
-      "iconUrl": "https://m.media-amazon.com/images/I/A1nQ2plTE+L._SL500_.png",
-      "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0GC9YPKBM",
-      "isClickable": true
-    },
-    {
-      "title": "Gorilla Fighting Games",
-      "imageUrl": "https://m.media-amazon.com/images/I/81TRcuD3syL.png",
-      "iconUrl": "https://m.media-amazon.com/images/I/B1ds1SrNbGL._SL500_.png",
-      "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0GCNKV774",
-      "isClickable": true
-    },
-    {
-      "title": "tung tung sahur",
-      "imageUrl": "https://m.media-amazon.com/images/I/81AoUkj7DfL.png",
-      "iconUrl": "https://m.media-amazon.com/images/I/A1FCW-J+yDL._SL500_.png",
-      "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0G2T371ZZ",
-      "isClickable": true
-    },
-    {
-      "title": "Fighting Master 3D",
-      "imageUrl": "https://m.media-amazon.com/images/I/81uUWePJeRL.png",
-      "iconUrl": "https://m.media-amazon.com/images/I/A1P50+mdIOL._SL500_.png",
-      "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0GBZ2M8RG",
-      "isClickable": true
-    },
-    {
-      "title": "Dinosaur Hunter",
-      "imageUrl": "https://m.media-amazon.com/images/I/91EIzXkxrWL.png",
-      "iconUrl": "https://m.media-amazon.com/images/I/B1g71PVq4wL._SL500_.png",
-      "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0GC8J7ZF3",
-      "isClickable": true
-    },
-    {
-      "title": "Rampage Rig Runner",
-      "imageUrl": "https://m.media-amazon.com/images/I/819yGHymG1L.png",
-      "iconUrl": "https://m.media-amazon.com/images/I/91Fj31tZErL._SL500_.png",
-      "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0G2TM1VKN",
-      "isClickable": true
-    },
-    {
-      "title": "Scary Haunted Doll",
-      "imageUrl": "https://m.media-amazon.com/images/I/813TFeLWXAL.png",
-      "iconUrl": "https://m.media-amazon.com/images/I/B1P-i9gE-KL._SL500_.png",
-      "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0G6XNRH82",
-      "isClickable": true
-    },
-    {
-      "title": "Mind Force: Telekinesis Adventure",
-      "imageUrl": "https://m.media-amazon.com/images/I/81gwC7U2t+L.png",
-      "iconUrl": "https://m.media-amazon.com/images/I/81Gt2Zj6njL._SL500_.png",
-      "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FPDVDCKC",
-      "isClickable": true
-    },
-    {
-      "title": "Abyss Blast Gravity Storm",
-      "imageUrl": "https://m.media-amazon.com/images/I/81QlG9e9m2L.png",
-      "iconUrl": "https://m.media-amazon.com/images/I/8119UQl25tL._SL500_.png",
-      "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FPDQ2XXH",
-      "isClickable": true
-    },
-    {
-      "title": "Ice Cream ASMR",
-      "imageUrl": "https://m.media-amazon.com/images/I/81TG90jKngL.png",
-      "iconUrl": "https://m.media-amazon.com/images/I/91TlkyAlAPL._SL500_.png",
-      "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FPF1HLFQ",
-      "isClickable": true
-    },
-    {
-      "title": "Crash Dummy Ragdoll Fall",
-      "imageUrl": "https://m.media-amazon.com/images/I/81thz7dSOiL.png",
-      "iconUrl": "https://m.media-amazon.com/images/I/813tBeV70zL._SL500_.png",
-      "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FPDZRTBR",
-      "isClickable": true
-    },
-    {
-      "title": "Sky Blocks: Island Survival",
-      "imageUrl": "https://m.media-amazon.com/images/I/81XHiA8pb5L.png",
-      "iconUrl": "https://m.media-amazon.com/images/I/A1ntXqN87fL._SL500_.png",
-      "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FRQC6SZQ",
       "isClickable": true
     }
   ]
