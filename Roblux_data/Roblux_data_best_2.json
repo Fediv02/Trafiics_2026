@@ -2,8 +2,8 @@
   "games": [
     {
       "title": "IPTV SUbscription",
-      "imageUrl": "Roblux_data/WhatsApp Image 2026-06-14 at 17.20.18.jpeg",
-      "iconUrl": "Roblux_data/hq720.jpg",
+      "imageUrl": "Roblux_data/hq720.png",
+      "iconUrl": "Roblux_data/hq720.png",
       "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0G6XRDTBX",
       "isClickable": true
     }
