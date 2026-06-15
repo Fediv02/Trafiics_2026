@@ -1,9 +1,9 @@
 {
   "games": [
     {
-      "title": "IPTV SUbscription",
-      "imageUrl": "https://play-lh.googleusercontent.com/pgu8zRtoh98M02sERBJmCxu5JJ6wp3TXFujZa5LwFgGFtOifh5jBVQOcY5m4FnfoDJY=w480-h960-rw",
-      "iconUrl": "https://play-lh.googleusercontent.com/Zmqu5mYNw60qrt4sC9UQ1W_k_-HtiH0dTPge0ZwrUsWeB3Wb6wv4A8xCnOBAAnWRWIY=w5120-h2880-rw",
+      "title": "IPTV Subscription",
+      "imageUrl": "https://ibb.co/fVgV2s9j",
+      "iconUrl": "https://ibb.co/fVgV2s9j",
       "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0G6XRDTBX",
       "isClickable": true
     }
